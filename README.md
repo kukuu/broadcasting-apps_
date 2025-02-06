@@ -1,4 +1,4 @@
-# Broadcasting Apps
+# Digital Broadcasting
 
 Videol Streaming and Digital Display Apps
 
